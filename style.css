@@ -1,0 +1,23 @@
+.jumbotron {
+    padding: 100px;
+}
+
+#recent{
+    background-color: #dfe9f5;
+    padding: 20px;
+    height: 300px;
+}
+
+#featured {
+    height: 500px;
+    padding: 20px;
+}
+
+.featured {
+    padding: 5px;
+    border-bottom: 1px solid grey;
+}
+
+.footer {
+    background-color: salmon;
+}
